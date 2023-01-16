@@ -7,6 +7,12 @@ Explore the Amazon Reviews Links to an external site.datasets and pick two datas
 
 Rename each part_one_starter_code.ipynb file according to the dataset you are using. For example, if you are going to use the Video Game reviews Links to an external site.file, rename file, part_one_video_games.ipynb. Repeat the process for the duplicate file you created in Step 2.
 
+# RDS Instance
+
+![image](https://user-images.githubusercontent.com/107616415/212657968-db40abce-605d-4ce5-ab57-18769dab42e2.png)
+
+
+
 # Extract the Data
 
 Read in each dataset using the correct header and sep parameters.
